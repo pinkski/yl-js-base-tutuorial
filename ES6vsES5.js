@@ -26,7 +26,7 @@
 
 // var s = function test(a) {
 //     console.log(a)
-// }(44)
+// }(44)、
 
 
 // ES5中使用IIFE声明私有变量
