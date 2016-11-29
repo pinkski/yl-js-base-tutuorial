@@ -190,5 +190,8 @@
 
 // Promise.reject(new Error('什么鬼'))
 
+var a = 3
+console.log(this.a)
+
 
 
